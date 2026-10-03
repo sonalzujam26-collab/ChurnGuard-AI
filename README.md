@@ -63,3 +63,10 @@ Model Evaluation
 Final Model Selection
         ↓
 Streamlit Dashboard
+
+## Author
+
+**Sonal Satish Zujam**  
+CSE-AI | Third Year Engineering Student
+
+GitHub: [sonalzujam26-collab](https://github.com/sonalzujam26-collab)
