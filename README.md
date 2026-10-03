@@ -43,7 +43,6 @@ https://github.com/IBM/telco-customer-churn-on-icp4d
 
 ## Machine Learning Workflow
 
-```text
 Raw Customer Data
         ↓
 Data Cleaning
@@ -63,6 +62,7 @@ Model Evaluation
 Final Model Selection
         ↓
 Streamlit Dashboard
+
 
 ## Author
 
